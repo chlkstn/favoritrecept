@@ -1,10 +1,12 @@
 header {
   background-color: green;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 20px;
+
+  padding: 20px;
 }
 
 .headtext {
-  padding-left: 20px;
+  margin-left: 20px;
 
   font-style: italic;
 
@@ -17,12 +19,19 @@ header {
 }
 
 .bild2 {
-  padding-left: 100px;
+  margin-left: 400px;
 
-  width: 100px;
+  width: 200px;
+}
+
+.foottext {
+  font-style: italic;
+  text-align: center;
+  font-size: 25px;
 }
 
 footer {
+  padding: 20px;
   background-color: rgb(190, 38, 38);
 }
 
@@ -30,5 +39,12 @@ h1 {
   font-size: 90;
   color: rgb(184, 12, 12);
   padding-left: 200px;
-  padding-top: 20px;
+}
+
+h4 {
+  font-size: 28px;
+  text-align: center;
+  color: rgb(1, 43, 1);
+
+  padding: 2px;
 }
