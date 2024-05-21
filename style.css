@@ -1,0 +1,53 @@
+header{
+    background-color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+
+
+
+
+}
+
+
+.headtext{
+
+    padding-left: 20px;
+
+    font-style: italic;
+
+
+    color: rgb(220, 218, 220);
+    font-size: 24px;
+
+
+
+
+
+
+}
+
+
+
+footer{
+
+    background-color: rgb(190, 38, 38);
+
+
+
+
+
+
+}
+
+h1{
+
+    font-size: 90;
+    color: rgb(184, 12, 12);
+    padding-left: 200px;
+    padding-top: 20px;
+
+
+
+}
